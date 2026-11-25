@@ -1,0 +1,28 @@
+{
+  "schedule": {
+    "date": "2026-11-25",
+    "start": "09:00",
+    "end": "23:59"
+  },
+  "candidates": [
+    {
+      "name": "akshay",
+      "party": "cse1"
+    },
+    {
+      "name": "akhil",
+      "party": "cse 2"
+    },
+    {
+      "name": "avinash",
+      "party": "cse3"
+    }
+  ],
+  "votes": {
+    "789123": {
+      "candidate": "akshay",
+      "recordedAt": "2026-11-25T14:04:44.549Z"
+    }
+  },
+  "publishedResults": null
+}
